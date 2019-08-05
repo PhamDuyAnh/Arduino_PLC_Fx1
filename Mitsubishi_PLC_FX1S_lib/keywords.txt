@@ -1,0 +1,9 @@
+FX1SPacket	KEYWORD1
+FX1SpacketPointer	KEYWORD1
+FX1S_construct	KEYWORD2
+FX1S_configure	KEYWORD2
+FX1S_update	KEYWORD2
+
+###### Constants ######
+FX1S_READ_D	LITERAL1
+FX1S_WRITE_D	LITERAL1
